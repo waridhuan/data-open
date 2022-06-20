@@ -36,7 +36,7 @@
     
     This Licence is governed by the laws of Malaysia and the parties to the Licence submit to the exclusive jurisdiction of the Malaysia courts.
 
-8. ** Terms and Definitions**
+8. **Terms and Definitions**
     
     In this Licence, the terms below have the following meanings:
 
