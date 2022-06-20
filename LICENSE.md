@@ -28,15 +28,15 @@
     
     DOSM may terminate this Licence immediately upon your breach of any of the terms of this Licence. The Disclaimers and Indemnity sections, and any other provision of this Licence which is required to give effect to termination or the consequences of such termination, shall survive the termination of this Licence.
 
-6.  Exemptions
+6.  **Exemptions**
     
     This Licence does not cover personal data in the information. Nor does it cover third party rights (including, but not limited to, patents, copyright, database rights or trademarks).
 
-7.  Governing Law and Jurisdiction
+7.  **Governing Law and Jurisdiction**
     
     This Licence is governed by the laws of Malaysia and the parties to the Licence submit to the exclusive jurisdiction of the Malaysia courts.
 
-8.  Terms and Definitions
+8. ** Terms and Definitions**
     
     In this Licence, the terms below have the following meanings:
 
